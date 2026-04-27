@@ -1,3 +1,3 @@
 function saludar() {
-    alert("Hola desde el pie de página");
+    alert("Bienvenido a la página web");
 }
